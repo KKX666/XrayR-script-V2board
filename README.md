@@ -6,10 +6,8 @@ A Xray backend framework that can easily support many panels.
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
 
 # 特点
--永久开源且免费。
-
--支持V2ray，Trojan， Shadowsocks多种协议。
-
+- 永久开源且免费。
+- 支持V2ray，Trojan， Shadowsocks多种协议。
 -支持Vless和XTLS等新特性。
 -支持单实例对接多面板、多节点，无需重复启动。
 -支持限制在线IP
