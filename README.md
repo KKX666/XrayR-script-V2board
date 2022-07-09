@@ -5,7 +5,7 @@ A Xray backend framework that can easily support many panels.
 
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
 
-# 详细使用教程
+# 使用教程
 
 [XrayR-project](https://crackair.gitbook.io/xrayr-project/)
 
