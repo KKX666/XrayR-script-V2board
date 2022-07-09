@@ -14,7 +14,8 @@ A Xray backend framework that can easily support many panels.
 ```
 wget -N https://raw.githubusercontents.com/KKX666/XrayR-script-V2board/master/install.sh && bash install.sh
 ```
-OR
+
+＆
 ```
 bash <(curl -Ls https://raw.githubusercontents.com/KKX666/XrayR-script-V2board/master/install.sh)
 ```
