@@ -7,7 +7,7 @@ A Xray backend framework that can easily support many panels.
 
 # 详细使用教程
 
-[教程](https://crackair.gitbook.io/xrayr-project/)
+[XrayR-project](https://crackair.gitbook.io/xrayr-project/)
 
 # 一键安装
 
