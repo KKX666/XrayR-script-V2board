@@ -16,9 +16,9 @@ A Xray backend framework that can easily support many panels.
 - 修改配置自动重启实例。
 - 方便编译和升级，可以快速更新核心版本， 支持Xray-core新特性。
 
-# 使用教程
+# 官方文档
 
-[XrayR-project](https://crackair.gitbook.io/xrayr-project/)
+**[XrayR-project](https://crackair.gitbook.io/xrayr-project/)**
 
 # 一键安装
 
